@@ -82,6 +82,7 @@ main > section.hero {
   text-align: center;
   position: sticky;
     top :0;
+  z-index: 1;
   /* make this banner stick to the top! */
 }
 
